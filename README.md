@@ -1,4 +1,4 @@
-##GET YT PLAYLIST TITLES AND URLS 
+#GET YT PLAYLIST TITLES AND URLS 
 
 So, I had an assignment for my robotics class this summer (2020) which 
 required us to categorize YouTube videos in a playlist by content using 
