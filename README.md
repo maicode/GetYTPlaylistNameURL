@@ -1,4 +1,4 @@
-#GET YT PLAYLIST TITLES AND URLS 
+## GET YT PLAYLIST TITLES AND URLS 
 
 So, I had an assignment for my robotics class this summer (2020) which 
 required us to categorize YouTube videos in a playlist by content using 
@@ -9,7 +9,7 @@ over 60 videos.
 I'm allergic to repetitive work and akin to automation. Plus, I'm a
 programmer, right? I should be able to write a script to do the work
 for me. So, that's what I did. 
-------------------
+
 This script fetches the URL and title of every video in playlist you 
 specify within the script and returns a csv containing two columns of 
 titles and URLs.
